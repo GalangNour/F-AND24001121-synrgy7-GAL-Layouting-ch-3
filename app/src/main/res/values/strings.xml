@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">challenge_ch3</string>
+    <string name="alphabet">alphabet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">List Item</string>
+    <string name="more">change</string>
+</resources>

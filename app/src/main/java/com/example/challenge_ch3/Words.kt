@@ -1,0 +1,30 @@
+package com.example.challenge_ch3
+
+enum class Words(val alphabet: String, val words: ArrayList<String>) {
+    A("A", arrayListOf("Angin", "Ayam")),
+    B("B", arrayListOf("Bunga", "Buku")),
+    C("C", arrayListOf("Cinta", "Coklat")),
+    D("D", arrayListOf("Dunia", "Daging")),
+    E("E", arrayListOf("Es", "Elektron")),
+    F("F", arrayListOf("Foto", "Fisika")),
+    G("G", arrayListOf("Gajah", "Gula")),
+    H("H", arrayListOf("Hutan", "Hujan")),
+    I("I", arrayListOf("Ikan", "Indah")),
+    J("J", arrayListOf("Jalan", "Jam")),
+    K("K", arrayListOf("Kucing", "Kopi")),
+    L("L", arrayListOf("Langit", "Laut")),
+    M("M", arrayListOf("Mata", "Makan")),
+    N("N", arrayListOf("Nasi", "Naga")),
+    O("O", arrayListOf("Orang", "Olahraga")),
+    P("P", arrayListOf("Pohon", "Pagi")),
+    Q("Q", arrayListOf("Quartz", "Quote")),
+    R("R", arrayListOf("Rumah", "Raja")),
+    S("S", arrayListOf("Sawah", "Senja")),
+    T("T", arrayListOf("Taman", "Tebing")),
+    U("U", arrayListOf("Ular", "Udara")),
+    V("V", arrayListOf("Vitamin", "Vokal")),
+    W("W", arrayListOf("Waktu", "Wanita")),
+    X("X", arrayListOf("Xylophone", "Xenon")),
+    Y("Y", arrayListOf("Yoghurt", "Yunani")),
+    Z("Z", arrayListOf("Zaman", "Zebra"))
+}
